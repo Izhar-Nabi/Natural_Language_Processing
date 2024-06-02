@@ -1,4 +1,4 @@
-# NLP Frameworks: From Basics to Advanced
+# NLP: From Basics to Advanced
 - Welcome to the NLP Frameworks repository! This repository contains comprehensive resources and code examples for learning Natural Language Processing (NLP) using various popular frameworks. The aim is to guide you from the basics of NLP to advanced topics such as Named Entity Recognition (NER) and Sentiment Analysis using both text and audio data.
 
 # Table of Contents
